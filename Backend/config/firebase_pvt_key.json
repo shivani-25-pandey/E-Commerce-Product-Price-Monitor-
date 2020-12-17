@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ecommerce-price-monitor",
+  "private_key_id": "d134d08408e8db013e1f30d72475021e5274aa34",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpSp46HesvU8YW\nDBmJxW5yG/SZ5xqZg7tmCKM80VQ34ICe90XJ68vSoW0UQSaA72P23aYQ1tfGc9SG\nNbuPhsF/P9QUxGzY6AzXincNSmT7PrTNyXcLVnwrfdhfoYnMEF8TufKA9oruaUwe\nfGgjhSWC20XNI+HZIx6BOuMRpzJG/lBDbtHtRoiLaYEk+yx/DRx+9fzq58d/CSyy\n12FOaaRGBb9lv7sZact7jWnylhHxjKy5cz62dQp0pghM9K9VCKay6mn3xIKMwcTc\nS2vwYhyb1ctvE7+wKieEeKLiEptWS/Ard8aTE17PYwdubFmcXhN6eoY4Vs5G1AG/\nYphNIplrAgMBAAECggEAP7eUfyZEnx8GRsUOFaMoEy2/be+kPNRug5RLsDfPXWqT\nroE+FKY5pFDap81vqwavFrrM5rieJRTykAMIUZh0GqtQ7PITT75jGvsEHQ37nO64\niV3C/xLxkEMA3dmEbjhZOKj7g5uHpf0ex7imT3wtJqfWCURwnFPSBuy9iyblTv+L\nBENP9oPf1vFAYzh9ToObYbhwUVE3QlEj3Sg8mn4yDiSEtdRIwNBsa65AUzLjR6lt\nxpjJa7XamV6bVmUlFBE+mkSpDN7MZTpRGzDB9LnOyYjuxmoXlGbrtRZzTMbYLAZK\nATulssZXzCP58o5SfAA91+zrIXqDQ51EjfZLtW8vhQKBgQDc9guo3Rug1mhSQd5E\nB73rwoytkXmhdSPfhqohuWLtd7evdpSznQKQeoh/W9qJE6ymbrAWJuK1qIj8laSx\nhYqv3RQohhJ9sLQFVlw7aWPRyI14r3G9EVvtv2lbYixl94ZANTliPMQSDuwE9HEE\nCUSGAoaAaCiUJFkUZK9KDoWu/QKBgQDEIwjgPUd6fcj++a/0cAOhk9QL9ZwpIDsu\nZbq5hCHXxP6kh34c8T9GtbTKHCaGumzi//bWdk6/rsGBdaScxmcBW+Ha/jH43KCk\nJ7cKZvpvwjfSz1DpwO4OI4B+Z4jK53zofjnLhT7xUArtdwlkNxpXzhjIV7y4fbDb\nZa6velY6hwKBgQCKOgmVO6za8wYT30zSNh2jbPNgaU8zp/onDTFFI5o1f90TERV5\nP1GpXF4jfiy57+rjuv7A/NZ6WdJIYLzEqQvXdG/14dmTc4VKiXntWMKvK80EoIyA\ngGmH02RvXHz11ODRLfqV7/mgamFPwDMrGTkatF272mz4L7ziOxJFO8x5aQKBgFH9\nY0R52Vt3IYKU1d0Uxi/RIB8vuOvoMVUf6YKLnaoZC2mzyiBHKPBiHQUv51sCq2np\nHkJgimLOps17ZCi1N3H1+uAUyscBU5XLlFSg36fARJ23VFei8uCuLpSoqyJGyoxV\n18sgFEPD9g12aVKfRj/WQ73cD2QABuJwCyoHtewZAoGBANo0QTcdoP3aV1PE58bS\ndnWYbXqfaa3WzSqbGvCIxfLaimD93S5MXvtS8OB5xIXsh1eFH8q6LzBB8Yi7Klm3\nLCeoMz2MGg1tGygG3zovf9Uyd9tKRjpIKJ+MaXbGTNwZrINu3PzCiISI5w4SppUY\nYKtMcmH27BQpFVZTR0Yp2+6+\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-t4ng6@ecommerce-price-monitor.iam.gserviceaccount.com",
+  "client_id": "110450032473869765504",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-t4ng6%40ecommerce-price-monitor.iam.gserviceaccount.com"
+}
